@@ -1,6 +1,6 @@
 
 # Project Name
-Training Pipeline for Transofrmenr Fo Token Classifications. Use the same environment from the base directory.
+Training Pipeline for Transofrmenr For Token Classifications. Use the same environment from the base directory.
 ## Table of Contents
 - [FinetuningBERT](#finetuningbert)
 - [EvaluatingBERT](#evaluatingbert)
