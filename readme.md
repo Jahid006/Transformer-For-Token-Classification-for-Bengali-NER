@@ -1,6 +1,6 @@
 
 # Project Name
-Training Pipeline for Transofrmenr For Token Classifications. Use the same environment from the base directory.
+Training Pipeline: Transformer For Token Classifications.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
