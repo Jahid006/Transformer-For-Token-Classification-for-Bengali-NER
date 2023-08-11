@@ -2,12 +2,20 @@
 # Project Name
 Training Pipeline for Transofrmenr For Token Classifications. Use the same environment from the base directory.
 ## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
 - [FinetuningBERT](#finetuningbert)
 - [EvaluatingBERT](#evaluatingbert)
 - [FinetuningTinyBERT](#finetuningtinybert)
 - [EvaluatingTinyBERT](#evaluatingtinybert)
 
-
+## Introduction
+This repo provides a complete methodology for training Name Entity Extraction System. 
+## Installation
+Download Anaconda and create a conda environment(python 3.10.x) with the requirement.txt file.
+```shell
+    pip install -r requirements.txt --no-cache
+```
 ## FinetuningBERT
 1. Change the config file at ./configs/bert_config.py to your need
 ```python 
